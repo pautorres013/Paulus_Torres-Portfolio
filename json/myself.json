@@ -1,0 +1,52 @@
+{
+    "aboutme": "I'm a versatile professional with experience across multiple industries, blending creativity, technical expertise, and analytical problem-solving. As a Multimedia Designer and 3D Rigging Artist, I've worked on game assets, animations, 3D printing, and motion design, bringing ideas to life through engaging visuals. My hands-on experience as a Print Press Operator has strengthened my attention to detail and quality control. Beyond creative work, I have a background in manual testing, ensuring software quality and functionality. My analytical side extends to tutoring, where I provided non-voice SQL database support, helping students understand complex database concepts. Additionally, my time as a Summer HR Intern gave me insights into organizational processes and team dynamics. This diverse skill set allows me to approach problems from multiple perspectives—whether in design, technology, or quality assurance. I thrive on learning and adapting to new challenges, always eager to expand my expertise and contribute to impactful projects.",
+    "Creative Skills": {
+        "Blender": {
+            "description": "Advanced level. Experienced in modeling, rigging, and UV unwrapping for game assets, animations, and 3D printing projects."
+        },
+        "Adobe Substance Painter": {
+            "description": "Intermediate level. Skilled in texturing 3D models with detailed materials for realistic and stylized assets."
+        },
+        "Unity": {
+            "description": "Intermediate level. Experience in importing assets, creating animations, and applying shaders for interactive content."
+        },
+        "Marvelous Designer": {
+            "description": "Beginner level. Knowledgeable in designing and simulating realistic cloth and garment patterns."
+        },
+        "Adobe Suite": {
+            "description": "Advanced level. Proficient in Photoshop, Illustrator, and After Effects for graphic design, video editing, and motion graphics."
+        },
+        "Da Vinci Resolve": {
+            "description": "Intermediate level. Capable of color correction, grading, and video editing for cinematic projects."
+        },
+        "ZBrush": {
+            "description": "Beginner level. Familiar with sculpting techniques for refining 3D models and enhancing details."
+        }
+    },
+    "Tech Stack": {
+        "HTML": {
+            "description": "Intermediate level. Used in building responsive web structures for portfolio and project pages."
+        },
+        "Tailwind CSS": {
+            "description": "Intermediate level. Utilized for styling and creating clean, modern UI designs in web projects."
+        },
+        "JavaScript": {
+            "description": "Intermediate level. Applied in building Core AI logic, interactive UI features, and dynamic content updates."
+        },
+        "JSON": {
+            "description": "Intermediate level. Used to structure data for website content, Core AI logic, and dynamic rendering."
+        },
+        "Node.JS": {
+            "description": "Beginner level. Familiar with setting up basic servers and backend logic for web applications."
+        },
+        "C#": {
+            "description": "Beginner level. Used in Unity projects for scripting game logic and animations."
+        },
+        "SQLite": {
+            "description": "Intermediate level. Used in database management for organizing structured data efficiently."
+        },
+        "SQL": {
+            "description": "Intermediate level. Experience in database queries, data manipulation, and troubleshooting."
+        }
+    }
+}

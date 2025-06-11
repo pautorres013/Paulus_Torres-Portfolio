@@ -1,0 +1,34 @@
+{
+  "viewer0": {
+    "id": "viewer0",
+    "timestamp": {
+      "entry": "08/01/2021 12:00:00",
+      "exit": "08/01/2021 12:03:10",
+      "duration": "3mins"
+    },
+    "activity": {
+      "pages_visited": ["Portfolio", "Case Studies"],
+      "most_focused_section": "Portfolio",
+      "clicks": 5,
+      "hovers": 12
+    },
+    "ai-verdict": "Creative",
+    "feedback": "test purposes only"
+  },
+  "viewer1": {
+    "id": "viewer1",
+    "timestamp": {
+      "entry": "08/01/2021 12:03:30",
+      "exit": "08/01/2021 12:05:10",
+      "duration": "2mins"
+    },
+    "activity": {
+      "pages_visited": ["Portfolio", "Case Studies"],
+      "most_focused_section": "Portfolio",
+      "clicks": 5,
+      "hovers": 12
+    },
+    "ai-verdict": "Creative",
+    "feedback": "test purposes only"
+  }
+}

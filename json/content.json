@@ -1,0 +1,187 @@
+{
+  "pf-content": [
+    {
+      "title": "3D Rigging & Models",
+      "summary": "My character modeling, rigging, and animation project with a strong focus on anime-style shaders and experience in PBR 3D models.",
+      "description": "This section of my portfolio showcases my expertise in 3D rigging, modeling, and animation. My work primarily features anime-style shaders, though I also have experience creating realistic 3D models. I specialize in Blender for modeling, utilize Auto-Rig Pro and custom rigs for rigging, and use Substance Painter for texturing. Additionally, I develop models optimized for Unity environments, including metaverse projects. Since 2023, I have been working as a freelance 3D Rigging Artist with Narrasoft Inc., where I have gained industry experience and refined both my technical and artistic skills.",
+      "workflow": "<ol class = 'text-left px-10'><li class = 'paragraphs'>Modeling:<br>The modeling process begins with the concept art, which is typically provided by my clients. I start by capturing the silhouette of the concept and defining its depth through shading and perspective. From there, I create a draft model that represents about 80% of the reference, ensuring the fundamental structure and proportions are accurate.<br><br></li><li class = 'paragraphs'>Rigging:<br>For rigging, I assess the concept art to determine the appropriate shading style—whether realistic or anime-inspired. This guides my workflow. For anime-style rigs, I study references from anime and VTuber models to understand expression and movement dynamics. For realistic models, I gather extensive references to ensure accurate muscle and joint movements. When working with hard surface models, such as mechas or robots, I design the rig based on its mechanical functions. For instance, a Gundam model would simulate humanoid movement while maintaining the rigid, robotic feel. <br><br><li class = 'paragraphs'>Animation:<br>The animation process builds upon the rig, ensuring smooth and expressive motion that aligns with the model's style and purpose. I apply principles of weight, balance, and timing to create natural and engaging animations, whether for interactive Unity environments or cinematic sequences.</li></ol>",
+      "renders": [
+        {
+          "Ryo Yamada": [
+            {
+              "texture map": "./asset/content/char-mod/ryo_img/Ryo_tex.png",
+              "turnaround": "./asset/content/char-mod/ryo_img/Ryo_turnaround.png",
+              "short animation": "./asset/content/char-mod/ryo_vid/Ryo7.mp4",
+              "render animation": "./asset/content/char-mod/ryo_vid/ryo3.mp4",
+              "test animation": "./asset/content/char-mod/ryo_vid/Ryo_btr_4.mp4",
+              "dance animation": "./asset/content/char-mod/ryo_vid/Ryo-dance.mp4",
+              "wireframe animation": "./asset/content/char-mod/ryo_vid/Ryo-dance_wireframe.mp4"
+            }
+          ],
+          "Bicycle": [
+            {
+              "viewport": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx4.jpg",
+              "wireframe": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx5.jpg",
+              "stylized shader - side": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx3.jpg",
+              "stylized shader - front": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx2.jpg",
+              "pbr shader - side": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx1.jpg",
+              "pbr shader - front": "./asset/content/char-mod/bicycle_img/paulus-torres-bmx.jpg",
+              "animation1": "./asset/content/char-mod/bicycle_vid/bike-video.mp4"
+            }
+          ],
+          "Chibi VTube-VRM": [
+            {
+              "turnaround": "./asset/content/char-mod/chibi_img/chibi-turnaround.png",
+              "body texture": "./asset/content/char-mod/chibi_img/body-tex.webp",
+              "head texture": "./asset/content/char-mod/chibi_img/head-tex.webp",
+              "reference": "./asset/content/char-mod/chibi_img/0xmons.png",
+              "animation": "./asset/content/char-mod/chibi_vid/Vtuber1.mp4",
+              "animation1": "./asset/content/char-mod/chibi_vid/Vtuber.mp4"
+            }
+          ],
+          "Ikemen VRM": [
+            {
+              "turnaround": "./asset/content/char-mod/ikemen_img/turnaround.png",
+              "basebody texture": "./asset/content/char-mod/ikemen_img/ikemen_body_albedo.png",
+              "clothing texture": "./asset/content/char-mod/ikemen_img/Ikemen_Clothes_BaseColor.png",
+              "animation": "./asset/content/char-mod/ikemen_vid/ikemen.mp4",
+              "animation1": "./asset/content/char-mod/ikemen_vid/ikemenkun.mp4"
+            }
+          ],
+          "Wobee 3D Printed": [
+            {
+              "front": "./asset/content/char-mod/wobee_img/wb1.jpg",
+              "back": "./asset/content/char-mod/wobee_img/wb2.jpg",
+              "drone": "./asset/content/char-mod/wobee_img/wb3.jpg",
+              "final product": "./asset/content/char-mod/wobee_img/wb_finalprod.jpg",
+              "turnaround": "./asset/content/char-mod/wobee_img/turnaround.jpg"
+            }
+          ]
+        }
+      ],
+      "thumbnail": "././asset/content/prod-vis/thumbnails/bottle_thumbnail.png"
+    },
+    {
+      "title": "Product Visualization",
+      "summary": "I’ve completed various small-scale projects that required adaptable and polished presentations. ",
+      "description": "This section showcases my expertise in product visualization, highlighting both client and personal projects. I have taken on various small, one-time projects that required high-quality product presentations, allowing me to refine my skills in this area. I primarily use Blender for modeling and rendering, with the ability to incorporate Marvelous Designer for detailed clothing simulations. Looking ahead, I plan to expand my portfolio with more clothing-focused projects.",
+      "workflow": "My workflow begins with identifying the product and adjusting textures and rigging to suit its specific needs. For these projects, I often rely on shapekeys, as they provide a non-destructive and efficient way to make adjustments. Final renders are created based on client specifications, typically delivered in 4K PNG format for both images and animations.",
+      "renders": [
+        {
+          "leopard case": [
+            {
+              "front": "./asset/content/prod-vis/iphonecase_img/metallicbronzeleopard_front.png",
+              "back": "./asset/content/prod-vis/iphonecase_img/metallicbronzeleopard_back.png",
+              "side": "./asset/content/prod-vis/iphonecase_img/metallicbronzeleopard_side.png"
+            }
+          ],
+          "penguin case": [
+            {
+              "front": "./asset/content/prod-vis/iphonecase_img/pudgypenguin_front.png",
+              "back": "./asset/content/prod-vis/iphonecase_img/pudgypenguin_back.png",
+              "side": "./asset/content/prod-vis/iphonecase_img/pudgypenguin_side.png"
+            }
+          ],
+          "bottle": [
+            {
+              "front": "./asset/content/prod-vis/bottle_img/bottle_1.png",
+              "back": "./asset/content/prod-vis/bottle_img/bottle_4.png",
+              "side left": "./asset/content/prod-vis/bottle_img/bottle_0.png",
+              "side right": "./asset/content/prod-vis/bottle_img/bottle_2.png"
+            }
+          ]
+        }
+      ],
+      "thumbnail": "./asset/content/prod-vis/thumbnails/bottle_thumbnail.png"
+    },
+    {
+      "title": "Game Assets",
+      "summary": "My efficient workflow ensures high-quality models with performance considerations, including LODs and texture optimization.",
+      "description": "This section showcases my game asset models, optimized for Unity environments. I primarily use Blender to create models that integrate seamlessly with Unity, though they can also be imported into Unreal Engine, as most game assets are static objects. My projects often involve creating clothing and accessories for virtual avatars, and I have extensive experience in optimizing models for game engines.",
+      "workflow": "My workflow begins with gathering model specifics from clients or supervisors. I determine the project’s theme, source references, or use Meta AI to generate concept images. From there, I proceed with modeling, typically using 2K textures for showcasing, and I’m well-versed in creating LODs for performance optimization if required.",
+      "renders": [
+        {
+          "Stylized": [
+            {
+              "Anime JK Uniform": "./asset/content/gr-assets/stylized/test.jpg",
+              "Anime Shoes": "./asset/content/gr-assets/stylized/turnaround.png",
+              "Anime Shoes 2": "./asset/content/gr-assets/stylized/footw-turnaround.png",
+              "Dancer (Low Poly)": "./asset/content/gr-assets/stylized/test2.jpg"
+            }
+          ],
+          "Realistic": [
+            {
+              "Jacket": "./asset/content/gr-assets/realistic/test1.jpg",
+              "Converse Shoes": "./asset/content/gr-assets/realistic/paulus-torres-converseshoes.jpg",
+              "Leather Shoes": "./asset/content/gr-assets/realistic/leathershoes.png",
+              "Fantasy Leather Magicia Shoes": "./asset/content/gr-assets/realistic/shoes-magi.png"
+            }
+          ]
+        }
+      ],
+      "thumbnail": "./asset/content/prod-vis/thumbnails/bottle_thumbnail.png"
+    },
+    {
+      "title": "Logo Animation",
+      "summary": " Using Blender and Geometry Nodes, I ensure each animation is dynamic, engaging, and aligned with the client’s brand identity.",
+      "description": "Logo animation plays a vital role in digital advertising, helping businesses establish a strong visual presence. I create tailored logo animations that reflect both the business and the owner's vision, leveraging Blender for its flexibility in integrating 3D elements to enhance visual appeal.",
+      "workflow": "My process begins with gathering detailed information from the client, such as the nature of the product and the desired vibe of the animation. I coordinate closely with clients to ensure I capture their vision accurately. For the animation, I rely on Blender's Geometry Nodes for their speed, flexibility, and versatility, making them ideal for this type of project.",
+      "renders": [
+        {
+          "composal": [
+            {
+              "reference": "./asset/content/logo-anim/cmp/reference/final-logo-9.png",
+              "animation": "./asset/content/logo-anim/cmp/video/composal-logo.mp4"
+            }
+          ],
+          "Green Digital Prints": [
+            {
+              "reference": "./asset/content/logo-anim/Gdp/reference/pau-torres-gdp-logo.jpg",
+              "animation": "./asset/content/logo-anim/Gdp/video/gdp-logo.mp4"
+            }
+          ]
+        }
+      ],
+      "thumbnail": "./asset/content/prod-vis/thumbnails/bottle_thumbnail.png"
+    },
+    {
+      "title": "Illustrations",
+      "summary": "I offer anime and chibi illustrations tailored to client specifications, with experience in both digital and print formats.",
+      "description": "I initially started creating illustrations to study perspective and color harmony for my 3D skills, but after my art gained recognition, I decided to offer it as a service. I specialize in anime and chibi illustrations, primarily for digital uploads, though I’ve also completed projects for t-shirt printing. I create my artwork in Clip Studio Paint and fine-tune colors in Photoshop.",
+      "workflow": "For original character commissions, I begin by gathering the client’s vision with questions about the character’s attitude, gender, clothing, and any preferred details. I create a sketch for client approval before moving on to coloring. This process ensures the final artwork meets their expectations while allowing for adjustments along the way.",
+      "renders": [
+        {
+          "Midori - Original Character(commissioned)": [
+            {
+              "Submitted Art": "./asset/content/illustrations/paulus-torres-midi-commish-fin-revised1.jpg",
+              "Final": "./asset/content/illustrations/paulus-torres-midi-commish-fin.jpg",
+              "Line Art": "./asset/content/illustrations/paulus-torres-midi-commish-lineart.jpg"
+            }
+          ],
+          "Clarice Fia Atlee - Fan Art and Speedpaint": [
+            {
+              "speedpaint animation": "./asset/content/illustrations/Clarice Fia Atlee [SpeedPaint].mp4",
+              "Final": "./asset/content/illustrations/pau-torres-clarice-2-2023.jpg"
+            }
+          ],
+          "Spy x Family (commissioned)": [
+            {
+              "for Shirt": "./asset/content/illustrations/pau-torres-draw-1.jpg"
+            }
+          ],
+          "Black Rock Shooter Fan Art": [
+            {
+              "Illustration": "./asset/content/illustrations/pau-torres-illustration-brs-2023.jpg"
+            }
+          ],
+          "Shenhe Fan Art": [
+            {
+              "Illustration": "./asset/content/illustrations/pau-torres-shenhe-recolor.jpg"
+            }
+          ]
+        }
+      ],
+      "thumbnail": "./asset/content/prod-vis/thumbnails/bottle_thumbnail.png"
+    }
+  ]
+}

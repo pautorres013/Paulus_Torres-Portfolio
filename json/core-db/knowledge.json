@@ -1,0 +1,28 @@
+{
+    "ai_thoughts": [
+        {
+          "time": 0,
+          "message": "Hi there!"
+        },
+        {
+          "time": 3,
+          "message": "...."
+        },
+        {
+          "time": 6,
+          "message": "I know you're there, viewing my creator's website!"
+        },
+        {
+          "time": 10,
+          "message": "How are you?"
+        },
+        {
+          "time": 15,
+          "message": "Hmm... still no response."
+        },
+        {
+          "time": 20,
+          "message": "Oh yeah, I don’t have input for the user."
+        }
+      ]
+}

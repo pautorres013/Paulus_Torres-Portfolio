@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <link rel="icon" href="asset/img/logo_ico.png" type="image/png" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body class = 'overflow-x-hidden'>
+  <!-- Navigation Bar -->
+  <div id="navbar-container"></div>
+  <div id="sideNav" class="fixed top-1/2 right-4 transform -translate-y-1/2 flex flex-col gap-4 z-1000">
+  </div>
+  <!-- Page Content-->
+  <main>
+    <div id = 'pf-cont' class = 'w-full pl-10 pr-10 hidden'>
+
+    </div>
+    <section id='pfslider' class="pf-slide-l flex -ml-30 md:-ml-100 group ">
+      <img src='./asset/content/char-mod/ryo_img/Ryo_turnaround.png' class='opacity-90 min-w-6xl group-hover:bg-blend-luminosity transition-all duration-200'>
+      <span class='pf-title absolute text-wrap group-hover:text-6xl group-hover:backdrop-blur-md'>3D Generalist</span>
+    </section>
+    <section id='pfslider' class="-mr-30 md:-mr-100 pf-slide-r flex group">
+      <img src='./asset/content/prod-vis/thumbnails/bottle_thumbnail.png' class=' opacity-100 min-w-6xl '>
+      <span class='pf-title absolute text-wrap group-hover:text-6xl group-hover:backdrop-blur-md '>Product Visualization</span>
+    </section>
+    <section id='pfslider' class=" pf-slide-l flex -ml-30 md:-ml-100 group">
+      <img src='./asset/content/gr-assets/black_shoes.png' class='opacity-90  min-w-6xl'>
+      <span class='pf-title absolute group-hover:text-6xl group-hover:backdrop-blur-md'>Assets</span>
+    </section>
+    <section id='pfslider' class="-mr-30 md:-mr-100 pf-slide-r flex group">
+      <img src='./asset/content/logo-anim/logo_thumb.png' class='opacity-90 min-w-6xl'>
+      <span class='pf-title absolute group-hover:text-6xl group-hover:backdrop-blur-md'>Logo Animations</span>
+    </section>
+    <section id='pfslider' class="-ml-30 md:-ml-100 pf-slide-l flex group">
+      <img src='./asset/content/illustrations/Illustration4.png' class='opacity-90 min-w-6xl rotate-y-180'>
+      <span class='pf-title absolute group-hover:text-6xl group-hover:backdrop-blur-md'>Illustrator</span>
+    </section>    
+  </main>
+  <div id="themeBar"></div>
+  <!-- Footer -->
+  <div id="footer-container"></div>
+
+  <!--Scripts-->
+  <!--<script type = "module" src="./js/core-modules/init.js" ></script>-->
+  <script src="./js/navbar.js" type='module'></script>
+
+  <script src='./js/portfolioJS/loader.js' type='module'></script>
+  <script src='./js/themeJS/themeUI.js' type='module'></script>
+  <script src="./js/section_scroll.js" type='module'></script>
+  <script src="./js/footer.js"></script>
+</body>
+
+</html>

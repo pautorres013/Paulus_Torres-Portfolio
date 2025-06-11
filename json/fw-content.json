@@ -1,0 +1,31 @@
+{
+    "fw-contents": [
+        {
+            "anata": [
+                {
+                    "1": "./asset/featuredWorks/Anata/859.png",
+                    "2": "./asset/featuredWorks/Anata/922.png",
+                    "3": "./asset/featuredWorks/Anata/784.gif",
+                    "4": "./asset/featuredWorks/Anata/833.gif",
+                    "5": "./asset/featuredWorks/Anata/964.gif",
+                    "6": "./asset/featuredWorks/Anata/Mercenary_Cutoff_1859.gif"
+                }
+            ]
+        },
+        {
+            "holo":[
+                {
+                    "1": "./asset/featuredWorks/Hologram Collections/Screenshot_2023-06-29_110737.png",
+                    "2":"./asset/featuredWorks/Hologram Collections/One_of_Ones_Hyperfy_-_Hayami.gif",
+                    "3": "./asset/featuredWorks/Hologram Collections/Render1.png",
+                    "4": "./asset/featuredWorks/Hologram Collections/Render_1.png",
+                    "5": "./asset/featuredWorks/Hologram Collections/Render_2.png",
+                    "6": "./asset/featuredWorks/Hologram Collections/Render_3.png",
+                    "7": "./asset/featuredWorks/Hologram Collections/Screenshot_2023-08-03_143255.png",
+                    "8": "./asset/featuredWorks/Hologram Collections/Screenshot_2023-08-03_143303.png",
+                    "9": "./asset/featuredWorks/Hologram Collections/Screenshot_2023-08-03_143313.png"
+                }
+            ]
+        }
+    ]
+}
