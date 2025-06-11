@@ -2,8 +2,6 @@
 
 Welcome to the official portfolio of Paulus Torres — a multi-disciplinary freelancer with a sharp edge in 3D art, front-end development, and animation. This site showcases selected works, technical capabilities, and creative experiments across multiple domains.
 
-![Website Preview](https://paulustorres-c254d.web.app/assets/preview-image.jpg) <!-- Optional: Add a real screenshot or generated preview -->
-
 ## 🌐 Live Site
 
 🔗 [https://paulustorres-c254d.web.app](https://paulustorres-c254d.web.app)
